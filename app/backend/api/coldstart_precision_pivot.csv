@@ -1,0 +1,6 @@
+model,Cold,Warm-A,Warm-B,Warm-C
+BPR,0.0,0.0,0.0,0.0
+BiVAE,0.0,0.0,0.0,0.0
+EmerG,0.4,1.0,0.9,1.0
+LightGCN,0.0,0.0,0.0,0.0
+MF,0.0,0.0,0.0,0.0
