@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="tN5rY5AanjJlArtVMIzG" name="Page-1">
+        <mxGraphModel dx="828" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="26" value="Functions" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="280" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Data Sources" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="160" width="120" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="User Behavior" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="190" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="System Logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Crawler Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="290" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Business Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="340" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Ingestion Layer" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="160" width="120" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Batch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="210" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Streaming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="310" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Data Processing" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="160" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="190" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="NLP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="190" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="CV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="230" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="230" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="310" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Logging &amp;amp; Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="310" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Orchestration &amp;amp; Scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="350" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="350" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Serving" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="160" width="120" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Visulization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="190" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Web/Apps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="JDBC/ODBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="290" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="340" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Storage Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="400" width="560" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

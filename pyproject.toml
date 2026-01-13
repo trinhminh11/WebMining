@@ -17,6 +17,7 @@ dependencies = [
     "numpy<2",
     "pandas>=2.3.3",
     "pandera>=0.27.1",
+    "psycopg2>=2.9.11",
     "pyspark",
     "retrying>=1.4.2",
     "scikit-learn>=1.8.0",
